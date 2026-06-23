@@ -1,6 +1,6 @@
 # RTSP face detection pipeline — Transline Technologies
 
-A Python pipeline that connects to a live RTSP camera feed, runs YOLO face detection on it, and saves every frame containing one or more faces into a local folder. Built and benchmarked during an internship at Transline Technologies, New Delhi (OKI Program, IIIT Hyderabad).
+A Python pipeline that connects to a live RTSP camera feed, runs YOLO face detection on it, and saves every frame containing one or more faces into a local folder. Built and benchmarked during an internship at Transline Technologies, New Delhi.
 
 ---
 
